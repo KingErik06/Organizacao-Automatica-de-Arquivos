@@ -1,3 +1,8 @@
+![Python](https://img.shields.io/badge/python-3.x-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
+![Status](https://img.shields.io/badge/status-estável-brightgreen)
+![Automation](https://img.shields.io/badge/focus-automation-orange)
+
 # Automação de Organização de Arquivos
 
 ## 📌 Descrição
